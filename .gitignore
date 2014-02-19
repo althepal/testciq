@@ -1,0 +1,4 @@
+*.pyc
+*.sw[po]
+*.back
+db.sqlite3
